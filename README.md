@@ -1,5 +1,6 @@
 # haffman_pascal
 Implementation of haffman algorithm on Pascal
 
-My old program from the student time.
+It is my old program from the student time.
+
 
